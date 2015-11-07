@@ -1,0 +1,6 @@
+[submodule "SupTrackedUI"]
+	path = SupTrackedUI
+	url = git@github.com:jkingsman/SupTrackedUI.git
+[submodule "SupTrackedAPI"]
+	path = SupTrackedAPI
+	url = git@github.com:jkingsman/SupTrackedAPI.git
